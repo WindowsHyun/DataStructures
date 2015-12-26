@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\MyReversiClass">
+      <UniqueIdentifier>{6b8d9c7b-c65e-4040-b55c-51b0aa7a8667}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MyReversiClass\etc">
+      <UniqueIdentifier>{30b17511-38de-47f3-a7c6-2a06f146d6a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MyReversiClass\MyAIs">
+      <UniqueIdentifier>{e0601960-736b-4e3a-9c10-d18b06048187}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Example">
+      <UniqueIdentifier>{518471f0-3d5e-4610-ab9b-c05df0537227}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\sources">
+      <UniqueIdentifier>{c26b23bb-b702-4526-863e-790b5a41b98e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MyReversiClass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="YoudieReversi2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackAttack.cpp">
+      <Filter>소스 파일\MyReversiClass</Filter>
+    </ClCompile>
+    <ClCompile Include="WhiteAttack.cpp">
+      <Filter>소스 파일\MyReversiClass</Filter>
+    </ClCompile>
+    <ClCompile Include="changeTurn.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="doReverse.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="getNowTurn.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="initBdScore.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="initMemBdScore.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="isGameEnd.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="isReverse.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="printResult.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="updateBd.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="initIsReverse.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="releaseIsReverse.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackDefense.cpp">
+      <Filter>소스 파일\MyReversiClass</Filter>
+    </ClCompile>
+    <ClCompile Include="WhiteDefense.cpp">
+      <Filter>소스 파일\MyReversiClass</Filter>
+    </ClCompile>
+    <ClCompile Include="initBdScore2.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="addTurnCnt.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="getBdScore.cpp">
+      <Filter>소스 파일\MyReversiClass\MyAIs</Filter>
+    </ClCompile>
+    <ClCompile Include="getV1XY.cpp">
+      <Filter>소스 파일\MyReversiClass\MyAIs</Filter>
+    </ClCompile>
+    <ClCompile Include="getV2XY.cpp">
+      <Filter>소스 파일\MyReversiClass\MyAIs</Filter>
+    </ClCompile>
+    <ClCompile Include="getV3XY.cpp">
+      <Filter>소스 파일\MyReversiClass\MyAIs</Filter>
+    </ClCompile>
+    <ClCompile Include="printM_BdStat.cpp">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="printM_BdScore.cpp">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="getV4XY.cpp">
+      <Filter>소스 파일\MyReversiClass\MyAIs</Filter>
+    </ClCompile>
+    <ClCompile Include="isWall.cpp">
+      <Filter>소스 파일\sources</Filter>
+    </ClCompile>
+    <ClCompile Include="getMinReverseXY.cpp">
+      <Filter>소스 파일\sources</Filter>
+    </ClCompile>
+    <ClCompile Include="cpyBd.cpp">
+      <Filter>소스 파일\MyReversiClass\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="getMergeDiskXY.cpp">
+      <Filter>소스 파일\sources</Filter>
+    </ClCompile>
+    <ClCompile Include="getMinReverseXYRange.cpp">
+      <Filter>소스 파일\sources</Filter>
+    </ClCompile>
+    <ClCompile Include="getLowWallXY.cpp">
+      <Filter>소스 파일\sources</Filter>
+    </ClCompile>
+    <ClCompile Include="printBd.cpp">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,37 @@
+		/*
+		else if( isBlackAIxNext_2012180004[i] == 0 && isBlackAIyNext_2012180004[i] == 0 && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=30;
+		else if( isBlackAIxNext_2012180004[i] == 0 && isBlackAIyNext_2012180004[i] == 7 && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=30;
+		else if( isBlackAIxNext_2012180004[i] == 7 && isBlackAIyNext_2012180004[i] == 0 && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=30;
+		else if( isBlackAIxNext_2012180004[i] == 7 && isBlackAIyNext_2012180004[i] == 7 && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=30;
+
+		else if( isBlackAIxNext_2012180004[i] == 0 && isBlackAIyNext_2012180004[i] != 0 || isBlackAIyNext_2012180004[i] != 7 && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=25;
+		else if( isBlackAIyNext_2012180004[i] == 0 && isBlackAIxNext_2012180004[i] != 0 || isBlackAIxNext_2012180004[i] != 7 && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=25;
+		else if( isBlackAIxNext_2012180004[i] == 7 && isBlackAIyNext_2012180004[i] != 0 || isBlackAIyNext_2012180004[i] != 7 && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=25;
+		else if( isBlackAIyNext_2012180004[i] == 7 && isBlackAIxNext_2012180004[i] != 0 || isBlackAIxNext_2012180004[i] != 7 && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=25;
+
+		else if( isBlackAIxNext_2012180004[i] == 1 && isBlackAIyNext_2012180004[i] != 1 || isBlackAIyNext_2012180004[i] != 0 || isBlackAIyNext_2012180004[i] != 6 || isBlackAIyNext_2012180004[i] != 7  && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=1;
+		else if( isBlackAIyNext_2012180004[i] == 1 && isBlackAIxNext_2012180004[i] != 1 || isBlackAIxNext_2012180004[i] != 0 || isBlackAIxNext_2012180004[i] != 6 || isBlackAIxNext_2012180004[i] != 7  && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=1;
+		else if( isBlackAIxNext_2012180004[i] == 6 && isBlackAIyNext_2012180004[i] != 1 || isBlackAIyNext_2012180004[i] != 0 || isBlackAIyNext_2012180004[i] != 6 || isBlackAIyNext_2012180004[i] != 7  && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=1;
+		else if( isBlackAIyNext_2012180004[i] == 6 && isBlackAIxNext_2012180004[i] != 1 || isBlackAIxNext_2012180004[i] != 0 || isBlackAIxNext_2012180004[i] != 6 || isBlackAIxNext_2012180004[i] != 7  && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=1;
+
+		else if( isBlackAIxNext_2012180004[i] == 2 && isBlackAIyNext_2012180004[i] != 1 || isBlackAIyNext_2012180004[i] != 0 || isBlackAIyNext_2012180004[i] != 6 || isBlackAIyNext_2012180004[i] != 7  && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=20;
+		else if( isBlackAIyNext_2012180004[i] == 2 && isBlackAIxNext_2012180004[i] != 1 || isBlackAIxNext_2012180004[i] != 0 || isBlackAIxNext_2012180004[i] != 6 || isBlackAIxNext_2012180004[i] != 7  && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=20;
+		else if( isBlackAIxNext_2012180004[i] == 5 && isBlackAIyNext_2012180004[i] != 1 || isBlackAIyNext_2012180004[i] != 0 || isBlackAIyNext_2012180004[i] != 6 || isBlackAIyNext_2012180004[i] != 7  && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=20;
+		else if( isBlackAIyNext_2012180004[i] == 5 && isBlackAIxNext_2012180004[i] != 1 || isBlackAIxNext_2012180004[i] != 0 || isBlackAIxNext_2012180004[i] != 6 || isBlackAIxNext_2012180004[i] != 7  && isBlackAiCountNext_2012180004[i] != 0)
+			isBlackAiCountNext_2012180004[i]+=20;
+			*/

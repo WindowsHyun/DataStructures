@@ -1,0 +1,112 @@
+﻿빌드 시작: 2013-05-21 오전 10:36:59
+     1>2 노드의 "D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130521 - 이진트리\데이터관리 20130319\데이터관리 20130319.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>InitializeBuildStatus:
+         "x64\Debug\데이터관리 20130319.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt "소스.cpp"
+         소스.cpp
+     1>소스.cpp(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스.cpp(86): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스.cpp(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스.cpp(146): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>소스.cpp(147): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>소스.cpp(192): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 'fopen' 선언을 참조하십시오.
+     1>소스.cpp(201): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : 'fscanf' 선언을 참조하십시오.
+     1>소스.cpp(205): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>소스.cpp(206): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>소스.cpp(263): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스.cpp(266): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스.cpp(269): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스.cpp(272): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130521 - 이진트리\데이터관리 20130319\소스.cpp(253): warning C4715: 'isDataNumSearch' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130521 - 이진트리\데이터관리 20130319\소스.cpp(232): warning C4715: 'isDataSearch' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt "소스2.cpp" "이진트리.cpp"
+         이진트리.cpp
+         소스2.cpp
+     1>소스2.cpp(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스2.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스2.cpp(86): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스2.cpp(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스2.cpp(146): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>소스2.cpp(147): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>소스2.cpp(192): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 'fopen' 선언을 참조하십시오.
+     1>소스2.cpp(201): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : 'fscanf' 선언을 참조하십시오.
+     1>소스2.cpp(205): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>소스2.cpp(206): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>소스2.cpp(263): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스2.cpp(266): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스2.cpp(269): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>소스2.cpp(272): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+         코드를 생성하고 있습니다...
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130521 - 이진트리\데이터관리 20130319\소스2.cpp(232): warning C4715: 'isDataSearch' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130521 - 이진트리\데이터관리 20130319\소스2.cpp(253): warning C4715: 'isDataNumSearch' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130521 - 이진트리\x64\Debug\데이터관리 20130319.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130521 - 이진트리\x64\Debug\데이터관리 20130319.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130521 - 이진트리\x64\Debug\데이터관리 20130319.lib" /MACHINE:X64 "x64\Debug\소스.obj"
+         "x64\Debug\소스2.obj"
+         "x64\Debug\이진트리.obj"
+     1>소스2.obj : error LNK2005: "int isDeleteNum" (?isDeleteNum@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int num" (?num@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int isSearchNum" (?isSearchNum@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int isZeroNum" (?isZeroNum@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int isTempTheEnd" (?isTempTheEnd@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "double isShortDistance" (?isShortDistance@@3NA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "double isStartTimet" (?isStartTimet@@3NA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "double isEndTimet" (?isEndTimet@@3NA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "double isStartTime" (?isStartTime@@3NA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "double isEndTime" (?isEndTime@@3NA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int isTestNum" (?isTestNum@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int isTestNum2" (?isTestNum2@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int tempHP" (?tempHP@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int tempUnitNum" (?tempUnitNum@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int tempindex" (?tempindex@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int isInsertNum" (?isInsertNum@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int isPrintAllpn" (?isPrintAllpn@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "int isSearrchEnd" (?isSearrchEnd@@3HA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "struct isData * root" (?root@@3PEAUisData@@EA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "struct isData * find" (?find@@3PEAUisData@@EA)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "void __cdecl isAddData(void)" (?isAddData@@YAXXZ)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "void __cdecl isPrintAll(struct isData *)" (?isPrintAll@@YAXPEAUisData@@@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "void __cdecl isSortByName(struct isData *)" (?isSortByName@@YAXPEAUisData@@@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "struct isData * __cdecl isDataSearch(struct isData *,int)" (?isDataSearch@@YAPEAUisData@@PEAU1@H@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "struct isData * __cdecl isDataNumSearch(struct isData *,int)" (?isDataNumSearch@@YAPEAUisData@@PEAU1@H@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "void __cdecl isInsertData(int)" (?isInsertData@@YAXH@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "void __cdecl isDataDelete(struct isData *,int)" (?isDataDelete@@YAXPEAUisData@@H@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "void __cdecl isFindMinHealth(struct isData *)" (?isFindMinHealth@@YAXPEAUisData@@@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: main이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>소스2.obj : error LNK2005: "struct isData * __cdecl insertNode(struct isData *,char *,int,int,char *,int,int,int,int)" (?insertNode@@YAPEAUisData@@PEAU1@PEADHH1HHHH@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>이진트리.obj : error LNK2005: main이(가) 소스.obj에 이미 정의되어 있습니다.
+     1>D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130521 - 이진트리\x64\Debug\데이터관리 20130319.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+     1>"D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130521 - 이진트리\데이터관리 20130319\데이터관리 20130319.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:02.29

@@ -1,0 +1,48 @@
+﻿빌드 시작: 2013-06-02 오후 9:14:54
+     1>2 노드의 "D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\데이터관리 20130319.vcxproj" 프로젝트(Build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\데이터관리 20130319.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "소스.cpp"
+         소스.cpp
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(85): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(123): warning C4101: 'temp2' :참조되지 않은 지역 변수입니다.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(158): warning C4101: 'p3' :참조되지 않은 지역 변수입니다.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(158): warning C4101: 'write' :참조되지 않은 지역 변수입니다.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(219): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 'fopen' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(229): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : 'fscanf' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(237): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(238): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(300): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(304): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(308): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>d:\★작업중\★c,c++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\소스.cpp(312): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\Debug\데이터관리 20130319.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\Debug\데이터관리 20130319.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\Debug\데이터관리 20130319.lib" /MACHINE:X86 /debug/machine:x64 "Debug\소스.obj"
+     1>LINK : warning LNK4044: '/debug/machine:x64' 옵션을 인식할 수 없습니다. 무시됩니다.
+         데이터관리 20130319.vcxproj -> D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\Debug\데이터관리 20130319.exe
+       FinalizeBuildStatus:
+         "Debug\데이터관리 20130319.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\데이터관리 20130319.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"D:\★작업중\★C,C++\자료구조 프로그래밍\데이터관리 20130528 - 연결리스트 - 퀵소트\데이터관리 20130319\데이터관리 20130319.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.44
